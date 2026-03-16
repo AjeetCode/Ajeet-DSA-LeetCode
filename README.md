@@ -6,10 +6,12 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
