@@ -48,5 +48,10 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
