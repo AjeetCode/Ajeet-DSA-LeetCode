@@ -14,6 +14,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -59,6 +60,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
