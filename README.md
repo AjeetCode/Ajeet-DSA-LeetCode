@@ -31,6 +31,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Backtracking
@@ -41,6 +42,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
