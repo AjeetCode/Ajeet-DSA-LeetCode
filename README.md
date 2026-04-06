@@ -26,6 +26,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
@@ -41,6 +42,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
