@@ -28,6 +28,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
@@ -51,11 +52,13 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
