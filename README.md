@@ -73,6 +73,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +107,12 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
