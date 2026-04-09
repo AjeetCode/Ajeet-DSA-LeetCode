@@ -47,6 +47,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -101,4 +102,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0338-counting-bits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
