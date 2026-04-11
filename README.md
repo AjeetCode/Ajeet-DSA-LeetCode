@@ -34,6 +34,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -115,4 +116,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
