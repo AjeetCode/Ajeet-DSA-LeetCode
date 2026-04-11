@@ -40,6 +40,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Backtracking
 |  |
@@ -85,6 +86,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
