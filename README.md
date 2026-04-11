@@ -66,6 +66,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
