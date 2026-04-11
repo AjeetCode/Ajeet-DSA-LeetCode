@@ -37,6 +37,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,4 +121,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
