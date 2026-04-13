@@ -77,6 +77,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
@@ -131,6 +132,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -144,4 +146,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
