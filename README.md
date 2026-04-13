@@ -29,6 +29,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0338-counting-bits) |
 ## Interactive
@@ -137,6 +139,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
