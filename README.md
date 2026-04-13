@@ -73,6 +73,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -144,6 +145,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -153,4 +155,5 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
