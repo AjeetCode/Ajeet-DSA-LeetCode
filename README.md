@@ -9,6 +9,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
@@ -45,6 +46,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +71,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,11 +99,13 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -165,4 +170,12 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
