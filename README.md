@@ -38,6 +38,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -60,6 +61,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +70,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
@@ -103,6 +106,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -178,4 +182,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
