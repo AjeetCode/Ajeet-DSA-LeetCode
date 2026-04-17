@@ -30,6 +30,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0078-subsets) |
@@ -105,6 +106,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -137,6 +139,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0338-counting-bits) |
