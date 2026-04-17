@@ -81,6 +81,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
@@ -165,6 +166,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
