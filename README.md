@@ -150,6 +150,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -172,6 +173,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -185,6 +187,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Geometry
@@ -203,4 +206,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
