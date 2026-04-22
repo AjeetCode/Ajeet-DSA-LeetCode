@@ -45,6 +45,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -78,6 +79,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -115,6 +117,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
@@ -135,6 +138,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -167,6 +171,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0055-jump-game](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
@@ -190,6 +195,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
