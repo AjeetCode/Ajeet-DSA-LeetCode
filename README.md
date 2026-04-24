@@ -41,6 +41,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
@@ -116,6 +117,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
@@ -161,11 +163,13 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -219,4 +223,8 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
