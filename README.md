@@ -6,6 +6,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
