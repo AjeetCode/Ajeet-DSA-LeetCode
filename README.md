@@ -10,6 +10,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -231,4 +232,12 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
