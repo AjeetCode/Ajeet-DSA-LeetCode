@@ -12,6 +12,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -24,12 +25,14 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0191-number-of-1-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
