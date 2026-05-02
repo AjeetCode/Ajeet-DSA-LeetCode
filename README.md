@@ -13,6 +13,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0504-base-7) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -110,6 +111,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0504-base-7) |
 ## Stack
 |  |
 | ------- |
