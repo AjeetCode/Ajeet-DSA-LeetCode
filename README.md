@@ -15,6 +15,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0504-base-7) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0912-sort-an-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1046-last-stone-weight) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
@@ -219,6 +221,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Quickselect
 |  |
 | ------- |
