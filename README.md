@@ -19,6 +19,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
