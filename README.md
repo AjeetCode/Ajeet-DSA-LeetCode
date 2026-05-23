@@ -9,6 +9,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0007-reverse-integer](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -101,6 +102,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -213,6 +215,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0128-longest-consecutive-sequence](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
