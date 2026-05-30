@@ -23,6 +23,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -204,6 +205,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0134-gas-station](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1323-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
