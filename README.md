@@ -17,6 +17,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0263-ugly-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0504-base-7) |
 | [0973-k-closest-points-to-origin](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -86,6 +87,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0069-sqrtx](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
