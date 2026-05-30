@@ -24,10 +24,17 @@ class Solution {
             }
         }
         int ans[][] = new int[k][2];
-        for(int j=0;j<k;j++){
+        // for(int j=0;j<k;j++){
+        //     int e=pq.poll();
+        //     int arr[]=points[e];
+        //     ans[j]=arr;
+        // }
+        int j = 0;
+        while(!pq.isEmpty()){
             int e=pq.poll();
-            int arr[]=points[e];
-            ans[j]=arr;
+            ans[j]=points[e];
+            j++;
+
         }
         return ans;
     }
