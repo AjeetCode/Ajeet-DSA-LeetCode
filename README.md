@@ -77,6 +77,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [1232-check-if-it-is-a-straight-line](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0504-base-7) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
