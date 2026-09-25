@@ -267,4 +267,12 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0258-add-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
