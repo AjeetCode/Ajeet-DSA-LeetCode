@@ -60,6 +60,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0136-single-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -99,6 +100,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | ------- |
 | [0075-sort-colors](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -230,6 +232,7 @@ DSA practice repository containing my LeetCode solutions in Java organized by to
 | [0141-linked-list-cycle](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AjeetCode/Ajeet-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
