@@ -1,14 +1,12 @@
 class Solution {
     public int mySqrt(int x) {
-        int k=0;
-        for(int i=0;i<=x;i++){
-            if((long)i*i<=x){
-                k=i;
-            }
-            else {
-                break;
+        for(int i = 1; i <= x; i++) {
+            if((long)i*i == (long)x) {
+                return i;
+            } else if((long)i*i > (long)x) {
+                return i-1;
             }
         }
-        return k;
+        return 0;
     }
 }
